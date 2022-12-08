@@ -51,6 +51,8 @@ public class Example_2 {
  * = (2n^2 + 2n + 3)* unit_time
  *
  * 结论：整段代码总的执行时间 T(n) = (2n^2+2n+3)*unit_time
+ *即，Tn = O (2n^2+2n+3)
+ * => Tn = O (n^)
  *
  * 所有代码的执行时间 T(n) 与每行代码的执行次数 f(n) 成正比。
  */

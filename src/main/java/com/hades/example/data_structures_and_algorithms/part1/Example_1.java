@@ -40,7 +40,9 @@ public class Example_1 {
      * = 2n + 2
      *
      *
-     * 总执行时间 : (2n + 2) * unit_time
+     * 总执行时间 Tn =  (2n + 2) * unit_time
+     * 即，Tn = O (2n + 2)
+     *  => Tn = O (n)
      *
      * 结论：所有代码的执行时间 T(n) 与每行代码的执行次数f(n)成正比。
      */
