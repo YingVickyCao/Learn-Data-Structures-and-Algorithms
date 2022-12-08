@@ -19,10 +19,10 @@ public class Example_1 {
      * i=5
      */
     private int cal(int n) {
-        // START
         int sum = 1; // 1 unit_time
         int i = 1;   // 1 unit_time
 
+        // START
         for (; i <= n; i++) { // n 个 unit_time++
             sum = sum + i;    // n 个 unit_time++
             System.out.println("i=" + i); // 只作为统计，不计入unit_time

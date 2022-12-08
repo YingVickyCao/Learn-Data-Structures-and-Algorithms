@@ -32,6 +32,7 @@ public class Example_2 {
         int sum = 0;    // 1 unit_time
         int i = 1;      // 1 unit_time
         int j = 1;      // 1 unit_time
+        // start
         for (; i <= n; ++i) { // n 个  unit_time
             j = 1; // n 个 unit_time
 
@@ -42,6 +43,7 @@ public class Example_2 {
                 System.out.println("inner for : count2 =" + (++count2) + "," + "j=" + j); // 只作为统计，不计入unit_time
             }
         }
+        // end
         return sum;
     }
 }
