@@ -1,4 +1,4 @@
-package com.hades.example.data_structures_and_algorithms.part1;
+package com.hades.example.data_structures_and_algorithms.asymptotic_time_complexity;
 
 /**
  * 时间复杂度分析 - 2. 加法法则：总复杂度等于量级最大的那段代码的复杂度

@@ -1,4 +1,4 @@
-package com.hades.example.data_structures_and_algorithms.part1;
+package com.hades.example.data_structures_and_algorithms.asymptotic_time_complexity;
 
 /**
  * 时间复杂度分析 - 3. 乘法法则：嵌套代码的复杂度等于嵌套内外代码复杂度的乘积

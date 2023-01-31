@@ -1,4 +1,4 @@
-package com.hades.example.data_structures_and_algorithms.part1;
+package com.hades.example.data_structures_and_algorithms.asymptotic_time_complexity;
 
 /**
  * 时间复杂度分析 - 大 O 复杂度表示法

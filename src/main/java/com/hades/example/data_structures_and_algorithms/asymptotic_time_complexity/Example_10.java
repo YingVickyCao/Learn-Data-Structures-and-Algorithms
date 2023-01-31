@@ -1,4 +1,4 @@
-package com.hades.example.data_structures_and_algorithms.part1;
+package com.hades.example.data_structures_and_algorithms.asymptotic_time_complexity;
 
 // 空间复杂度分析 - o(n)
 public class Example_10 {
